@@ -1,1 +1,79 @@
 comandos.txt
+
+TI@L61M13 MINGW64 ~/Desktop/git_atividade (master)
+$ git log
+commit f96d7b4420d44d311d761c02ca0693c2f9ed13dd (HEAD -> master, origin/master)
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:32:23 2020 -0300
+
+    Adicionando
+
+commit 379ca95f58a89fc7e338465b0d5513afced8505e
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:25:11 2020 -0300
+
+    third.txt
+
+commit 36526d683d6196f94c5b585865d112f8686612ab
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:19:32 2020 -0300
+
+    third.txt
+
+
+TI@L61M13 MINGW64 ~/Desktop/git_atividade (master)
+$ git log
+commit e8996c9ce329ebe6e895b9718d525fc9c8780808 (HEAD -> master, origin/master)
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:39:54 2020 -0300
+
+    Removendo
+
+
+commit 94eae0165846f2a6467907f923b9789953ff4655
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:36:10 2020 -0300
+
+    Adicionando
+
+commit f96d7b4420d44d311d761c02ca0693c2f9ed13dd
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:32:23 2020 -0300
+
+    Adicionando
+
+commit 379ca95f58a89fc7e338465b0d5513afced8505e
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:25:11 2020 -0300
+
+    third.txt
+
+commit 36526d683d6196f94c5b585865d112f8686612ab
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:19:32 2020 -0300
+
+    third.txt
+(END)
+commit 94eae0165846f2a6467907f923b9789953ff4655
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:36:10 2020 -0300
+
+    Adicionando
+
+commit f96d7b4420d44d311d761c02ca0693c2f9ed13dd
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:32:23 2020 -0300
+
+    Adicionando
+
+commit 379ca95f58a89fc7e338465b0d5513afced8505e
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:25:11 2020 -0300
+
+    third.txt
+
+commit 36526d683d6196f94c5b585865d112f8686612ab
+Author: Gabriela Almeida <maturogabriela@gmail.com>
+Date:   Thu Mar 5 20:19:32 2020 -0300
+
+    third.txt
