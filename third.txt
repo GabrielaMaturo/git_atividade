@@ -1,4 +1,0 @@
-third.txt
-
-qualquer coisa
-adicionando qualquer coisa de novo
